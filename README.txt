@@ -87,8 +87,8 @@ a) Put both folders side by side (they already are in this package):
        some-folder/ughe-backend
        some-folder/ughe-frontend
    If cloning from GitHub:
-       git clone https://github.com/<your-username>/ughe-backend.git
-       git clone https://github.com/<your-username>/ughe-frontend.git
+       git clone https://github.com/TETA-Liana/ughe-backend.git
+       git clone https://github.com/TETA-Liana/ughe-frontend.git
 
 b) Start everything:
        cd ughe-backend
